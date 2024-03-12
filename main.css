@@ -1,0 +1,25 @@
+body{
+    background: 	#F5DEB3;
+    color: 	#B8860B; 
+    font-family: 'Parisienne', regular;
+}
+
+.botao-hover{
+    background-color: #d12b32;
+    color: #fa0000;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    transform: scale(1.1);
+    transition: all 0.5s;
+  } 
+
+.Titulo{
+    font-size: 100px;
+    color: #B8860B ;
+    text-align: center;
+}
